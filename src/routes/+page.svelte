@@ -2,6 +2,6 @@
 	import Grid from './Grid.svelte';
 </script>
 
-<div class="mx-auto flex h-full w-full items-center justify-center">
+<div class="mx-auto flex h-full w-[100vw] items-center justify-center">
 	<Grid />
 </div>
